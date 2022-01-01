@@ -4,6 +4,10 @@
 > A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Social Engineering in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
+[Social engineering](https://en.wikipedia.org/wiki/Social_engineering_(security)) is the act of exploiting human weaknesses to gain access to personal information and protected systems. 
+
+![social](https://github.com/paulveillard/cybersecurity-social-engineering/blob/main/img/social-engineering-identity.png)
+
 Table of Contents
 =================
 
